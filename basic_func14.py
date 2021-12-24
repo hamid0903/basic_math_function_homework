@@ -5,3 +5,7 @@
 # Example:
 # Input: a = 11 b = 2
 # Output: 5
+def main(a,b):
+    return a//b
+x=main(10,4)
+print(x)
