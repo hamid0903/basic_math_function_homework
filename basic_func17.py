@@ -5,3 +5,9 @@
 # Example:
 # Input: a = pi
 # Output: pi
+from math import pi
+def main(a):
+    a=pi
+    return a
+x=main(3)
+print(x)
